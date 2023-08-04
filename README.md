@@ -9,14 +9,14 @@ but has limitations of limited dataset leading to unable to recognize many signs
 
 Gestures Involved in this trained dataset are:
 
-okay
-peace
-Yes
-No
-call me
-stop
-I Like You  
-Hi
-fist
-smile
+okay,
+peace,
+Yes,
+No,
+call me,
+stop,
+I Like You,  
+Hi,
+fist,
+smile.
 
